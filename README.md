@@ -1,6 +1,6 @@
 <h6 align="center">
 
-![profileviews](https://komarev.com/ghpvc/?username=yanderechainsawregurgitationfactory&label=stalkers&color=959595)
+![profileviews](https://komarev.com/ghpvc/?username=yanderechainsawregurgitationfactory&label=captors&color=959595)
 
 <h6 align="center">
 
