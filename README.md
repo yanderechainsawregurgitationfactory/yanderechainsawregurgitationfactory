@@ -19,4 +19,4 @@ collect my githubs!
 
 <h6 align="center">
 
-<img src="https://files.catbox.moe/t8cc2n.webp" />. <img src="https://files.catbox.moe/21v0n6.webp" width="100" />. <img src="https://files.catbox.moe/zd2nps.webp" width="100" />.  <img src="https://files.catbox.moe/x2z50b.webp" width="100" />. <img src="https://files.catbox.moe/9hcyu6.webp" width="100" />. <img src="https://files.catbox.moe/wduzeb.webp" width="100" />. 
+<img src="https://files.catbox.moe/t8cc2n.webp"  width="50" />. <img src="https://files.catbox.moe/21v0n6.webp" width="100" />. <img src="https://files.catbox.moe/zd2nps.webp" width="100" />.  <img src="https://files.catbox.moe/x2z50b.webp" width="100" />. <img src="https://files.catbox.moe/9hcyu6.webp" width="100" />. <img src="https://files.catbox.moe/wduzeb.webp" width="100" />. 
